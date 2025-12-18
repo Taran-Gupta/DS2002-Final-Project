@@ -1,0 +1,1042 @@
+[
+	{
+		"VendorID" : 1,
+		"AccountNumber" : "INTERNAT0001",
+		"Name" : "International",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 2,
+		"AccountNumber" : "ELECTRON0002",
+		"Name" : "Electronic Bike Repair & Supplies",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-17 00:00:00"
+	},
+	{
+		"VendorID" : 3,
+		"AccountNumber" : "PREMIER0001",
+		"Name" : "Premier Sport, Inc.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 4,
+		"AccountNumber" : "COMFORT0001",
+		"Name" : "Comfort Road Bicycles",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 5,
+		"AccountNumber" : "METROSP0001",
+		"Name" : "Metro Sport Equipment",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-01 00:00:00"
+	},
+	{
+		"VendorID" : 6,
+		"AccountNumber" : "GREENLA0001",
+		"Name" : "Green Lake Bike Company",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-01 00:00:00"
+	},
+	{
+		"VendorID" : 7,
+		"AccountNumber" : "MOUNTAIN0001",
+		"Name" : "Mountain Works",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "0",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 8,
+		"AccountNumber" : "CONTINEN0001",
+		"Name" : "Continental Pro Cycles",
+		"CreditRating" : 3,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 9,
+		"AccountNumber" : "ADATUM0001",
+		"Name" : "A. Datum Corporation",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : "www.adatum.com/",
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 10,
+		"AccountNumber" : "TREYRE0001",
+		"Name" : "Trey Research",
+		"CreditRating" : 3,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : "www.treyresearch.net/",
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 11,
+		"AccountNumber" : "ANDERSON0001",
+		"Name" : "Anderson's Custom Bikes",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2001-06-09 00:00:00"
+	},
+	{
+		"VendorID" : 12,
+		"AccountNumber" : "COMPETE0002",
+		"Name" : "Compete, Inc.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 13,
+		"AccountNumber" : "BEAUMONT0001",
+		"Name" : "Beaumont Bikes",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "0",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-23 00:00:00"
+	},
+	{
+		"VendorID" : 14,
+		"AccountNumber" : "LIGHTSP0001",
+		"Name" : "Light Speed",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-23 00:00:00"
+	},
+	{
+		"VendorID" : 15,
+		"AccountNumber" : "SUPERSAL0001",
+		"Name" : "SUPERSALES INC.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-06 00:00:00"
+	},
+	{
+		"VendorID" : 16,
+		"AccountNumber" : "IMAGEMA0001",
+		"Name" : "Image Makers Bike Center",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-06 00:00:00"
+	},
+	{
+		"VendorID" : 17,
+		"AccountNumber" : "COMPETE0001",
+		"Name" : "Compete Enterprises, Inc",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 18,
+		"AccountNumber" : "G&KBI0001",
+		"Name" : "G & K Bicycle Corp.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 19,
+		"AccountNumber" : "CYCLING0001",
+		"Name" : "Cycling Master",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 20,
+		"AccountNumber" : "JEFFSSP0001",
+		"Name" : "Jeff's Sporting Goods",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 21,
+		"AccountNumber" : "BUSINESS0001",
+		"Name" : "Business Equipment Center",
+		"CreditRating" : 2,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-23 00:00:00"
+	},
+	{
+		"VendorID" : 22,
+		"AccountNumber" : "VICTORY0001",
+		"Name" : "Victory Bikes",
+		"CreditRating" : 5,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-21 00:00:00"
+	},
+	{
+		"VendorID" : 23,
+		"AccountNumber" : "NORSTAN0001",
+		"Name" : "Norstan Bike Hut",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 24,
+		"AccountNumber" : "FIRSTRA0001",
+		"Name" : "First Rate Bicycles",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 25,
+		"AccountNumber" : "READYRE0001",
+		"Name" : "Ready Rentals",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 26,
+		"AccountNumber" : "FIRSTNA0001",
+		"Name" : "First National Sport Co.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 27,
+		"AccountNumber" : "CAPITAL0001",
+		"Name" : "Capital Road Cycles",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 28,
+		"AccountNumber" : "WIDEWOR0001",
+		"Name" : "Wide World Importers",
+		"CreditRating" : 2,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : "www.wideworldimporters.com/",
+		"ModifiedDate" : "2002-02-17 00:00:00"
+	},
+	{
+		"VendorID" : 29,
+		"AccountNumber" : "INTEGRAT0001",
+		"Name" : "Integrated Sport Products",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-17 00:00:00"
+	},
+	{
+		"VendorID" : 30,
+		"AccountNumber" : "CONSUMER0001",
+		"Name" : "Consumer Cycles",
+		"CreditRating" : 3,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 31,
+		"AccountNumber" : "FEDERAL0001",
+		"Name" : "Federal Sport",
+		"CreditRating" : 3,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 32,
+		"AccountNumber" : "ADVANCED0001",
+		"Name" : "Advanced Bicycles",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2001-05-26 00:00:00"
+	},
+	{
+		"VendorID" : 33,
+		"AccountNumber" : "SIGNATUR0001",
+		"Name" : "Signature Cycles",
+		"CreditRating" : 2,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 34,
+		"AccountNumber" : "INDIANA0001",
+		"Name" : "Indiana Bicycle Center",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 35,
+		"AccountNumber" : "MITCHELL0001",
+		"Name" : "Mitchell Sports",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 36,
+		"AccountNumber" : "RECREATI0001",
+		"Name" : "Recreation Place",
+		"CreditRating" : 4,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 37,
+		"AccountNumber" : "INNERCI0001",
+		"Name" : "Inner City Bikes",
+		"CreditRating" : 3,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 38,
+		"AccountNumber" : "ALLENSON0001",
+		"Name" : "Allenson Cycles",
+		"CreditRating" : 2,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2001-05-26 00:00:00"
+	},
+	{
+		"VendorID" : 39,
+		"AccountNumber" : "HILLSBI0001",
+		"Name" : "Hill's Bicycle Service",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 40,
+		"AccountNumber" : "WESTJUN0001",
+		"Name" : "West Junction Cycles",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-21 00:00:00"
+	},
+	{
+		"VendorID" : 41,
+		"AccountNumber" : "SPEEDCO0001",
+		"Name" : "Speed Corporation",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 42,
+		"AccountNumber" : "LEGENDC0001",
+		"Name" : "Legend Cycles",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 43,
+		"AccountNumber" : "INLINEA0001",
+		"Name" : "Inline Accessories",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 44,
+		"AccountNumber" : "COMPETIT0001",
+		"Name" : "Competition Bike Training Systems",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 45,
+		"AccountNumber" : "CHICAGO0001",
+		"Name" : "Chicago City Saddles",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 46,
+		"AccountNumber" : "BURNETT0001",
+		"Name" : "Burnett Road Warriors",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-23 00:00:00"
+	},
+	{
+		"VendorID" : 47,
+		"AccountNumber" : "BIKESAT0001",
+		"Name" : "Bike Satellite Inc.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "0",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-23 00:00:00"
+	},
+	{
+		"VendorID" : 48,
+		"AccountNumber" : "GARDNER0001",
+		"Name" : "Gardner Touring Cycles",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "0",
+		"ActiveFlag" : "0",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 49,
+		"AccountNumber" : "MAGICCY0001",
+		"Name" : "Magic Cycles",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 50,
+		"AccountNumber" : "VISIONC0001",
+		"Name" : "Vision Cycles, Inc.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "0",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-21 00:00:00"
+	},
+	{
+		"VendorID" : 51,
+		"AccountNumber" : "BERGERON0001",
+		"Name" : "Bergeron Off-Roads",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-23 00:00:00"
+	},
+	{
+		"VendorID" : 52,
+		"AccountNumber" : "HYBRIDB0001",
+		"Name" : "Hybrid Bicycle Center",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 53,
+		"AccountNumber" : "JACKSON0001",
+		"Name" : "Jackson Authority",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 54,
+		"AccountNumber" : "PROSPOR0001",
+		"Name" : "Pro Sport Industries",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "0",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 55,
+		"AccountNumber" : "SPORTFA0001",
+		"Name" : "Sport Fan Co.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 56,
+		"AccountNumber" : "INTERNAT0002",
+		"Name" : "International Bicycles",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 57,
+		"AccountNumber" : "WOODFIT0001",
+		"Name" : "Wood Fitness",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-21 00:00:00"
+	},
+	{
+		"VendorID" : 58,
+		"AccountNumber" : "MIDWEST0001",
+		"Name" : "Midwest Sport, Inc.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 59,
+		"AccountNumber" : "ELECTRON0001",
+		"Name" : "Electronic Bike Co.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 60,
+		"AccountNumber" : "INTERNAT0003",
+		"Name" : "International Sport Assoc.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 61,
+		"AccountNumber" : "LINDELL0001",
+		"Name" : "Lindell",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-01 00:00:00"
+	},
+	{
+		"VendorID" : 62,
+		"AccountNumber" : "TRAINING0001",
+		"Name" : "Training Systems",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-06 00:00:00"
+	},
+	{
+		"VendorID" : 63,
+		"AccountNumber" : "MERITBI0001",
+		"Name" : "Merit Bikes",
+		"CreditRating" : 5,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-06 00:00:00"
+	},
+	{
+		"VendorID" : 64,
+		"AccountNumber" : "CIRCUIT0001",
+		"Name" : "Circuit Cycles",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "0",
+		"ActiveFlag" : "0",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 65,
+		"AccountNumber" : "INTERNAT0004",
+		"Name" : "International Trek Center",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 66,
+		"AccountNumber" : "LAKEWOOD0001",
+		"Name" : "Lakewood Bicycle",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-01 00:00:00"
+	},
+	{
+		"VendorID" : 67,
+		"AccountNumber" : "KNOPFLER0001",
+		"Name" : "Knopfler Cycles",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-01 00:00:00"
+	},
+	{
+		"VendorID" : 68,
+		"AccountNumber" : "LEAFRIV0001",
+		"Name" : "Leaf River Terrain",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "0",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-01 00:00:00"
+	},
+	{
+		"VendorID" : 69,
+		"AccountNumber" : "NATIONAL0001",
+		"Name" : "National Bike Association",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 70,
+		"AccountNumber" : "SPORTPL0001",
+		"Name" : "Sport Playground",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 71,
+		"AccountNumber" : "VISTARO0001",
+		"Name" : "Vista Road Bikes",
+		"CreditRating" : 3,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-21 00:00:00"
+	},
+	{
+		"VendorID" : 72,
+		"AccountNumber" : "VARSITY0001",
+		"Name" : "Varsity Sport Co.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-21 00:00:00"
+	},
+	{
+		"VendorID" : 73,
+		"AccountNumber" : "CROWLEY0001",
+		"Name" : "Crowley Sport",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 74,
+		"AccountNumber" : "AUSTRALI0001",
+		"Name" : "Australia Bike Retailer",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-23 00:00:00"
+	},
+	{
+		"VendorID" : 75,
+		"AccountNumber" : "NORTHERN0001",
+		"Name" : "Northern Bike Travel",
+		"CreditRating" : 3,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 76,
+		"AccountNumber" : "CRUGERB0001",
+		"Name" : "Cruger Bike Company",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-17 00:00:00"
+	},
+	{
+		"VendorID" : 77,
+		"AccountNumber" : "CUSTOMF0001",
+		"Name" : "Custom Frames, Inc.",
+		"CreditRating" : 2,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-17 00:00:00"
+	},
+	{
+		"VendorID" : 78,
+		"AccountNumber" : "AURORAB0001",
+		"Name" : "Aurora Bike Center",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2001-06-09 00:00:00"
+	},
+	{
+		"VendorID" : 79,
+		"AccountNumber" : "GMASKI0001",
+		"Name" : "GMA Ski & Bike",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2001-06-09 00:00:00"
+	},
+	{
+		"VendorID" : 80,
+		"AccountNumber" : "BICYCLE0001",
+		"Name" : "Bicycle Specialists",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-23 00:00:00"
+	},
+	{
+		"VendorID" : 81,
+		"AccountNumber" : "BLOOMING0001",
+		"Name" : "Bloomington Multisport",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-23 00:00:00"
+	},
+	{
+		"VendorID" : 82,
+		"AccountNumber" : "ILLINOIS0001",
+		"Name" : "Illinois Trek & Clothing",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-23 00:00:00"
+	},
+	{
+		"VendorID" : 83,
+		"AccountNumber" : "LITWARE0001",
+		"Name" : "Litware, Inc.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : "www.litwareinc.com/",
+		"ModifiedDate" : "2001-05-26 00:00:00"
+	},
+	{
+		"VendorID" : 84,
+		"AccountNumber" : "PROSE0001",
+		"Name" : "Proseware, Inc.",
+		"CreditRating" : 4,
+		"PreferredVendorStatus" : "0",
+		"ActiveFlag" : "0",
+		"PurchasingWebServiceURL" : "www.proseware.com/",
+		"ModifiedDate" : "2001-06-09 00:00:00"
+	},
+	{
+		"VendorID" : 85,
+		"AccountNumber" : "AMERICAN0001",
+		"Name" : "American Bicycles and Wheels",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2001-05-26 00:00:00"
+	},
+	{
+		"VendorID" : 86,
+		"AccountNumber" : "CARLSON0001",
+		"Name" : "Carlson Specialties",
+		"CreditRating" : 2,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 87,
+		"AccountNumber" : "EXPERTB0001",
+		"Name" : "Expert Bike Co",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 88,
+		"AccountNumber" : "GREENWOO0001",
+		"Name" : "Greenwood Athletic Company",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 89,
+		"AccountNumber" : "SPORTSH0001",
+		"Name" : "Sports House",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 90,
+		"AccountNumber" : "RELIANCE0001",
+		"Name" : "Reliance Fitness, Inc.",
+		"CreditRating" : 2,
+		"PreferredVendorStatus" : "0",
+		"ActiveFlag" : "0",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 91,
+		"AccountNumber" : "WESTAMER0001",
+		"Name" : "WestAmerica Bicycle Co.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "0",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-21 00:00:00"
+	},
+	{
+		"VendorID" : 92,
+		"AccountNumber" : "AMERICAN0002",
+		"Name" : "American Bikes",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2001-06-09 00:00:00"
+	},
+	{
+		"VendorID" : 93,
+		"AccountNumber" : "CHICAGO0002",
+		"Name" : "Chicago Rent-All",
+		"CreditRating" : 2,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-01-24 00:00:00"
+	},
+	{
+		"VendorID" : 94,
+		"AccountNumber" : "SUPERIOR0001",
+		"Name" : "Superior Bicycles",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-06 00:00:00"
+	},
+	{
+		"VendorID" : 95,
+		"AccountNumber" : "TEAMATH0001",
+		"Name" : "Team Athletic Co.",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-06 00:00:00"
+	},
+	{
+		"VendorID" : 96,
+		"AccountNumber" : "HILLBIC0001",
+		"Name" : "Hill Bicycle Center",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 97,
+		"AccountNumber" : "NORTHW0001",
+		"Name" : "Northwind Traders",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : "www.northwindtraders.com/",
+		"ModifiedDate" : "2002-02-25 00:00:00"
+	},
+	{
+		"VendorID" : 98,
+		"AccountNumber" : "TRIKES0001",
+		"Name" : "Trikes, Inc.",
+		"CreditRating" : 2,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-06 00:00:00"
+	},
+	{
+		"VendorID" : 99,
+		"AccountNumber" : "MARSH0001",
+		"Name" : "Marsh",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-06 00:00:00"
+	},
+	{
+		"VendorID" : 100,
+		"AccountNumber" : "HOLIDAY0001",
+		"Name" : "Holiday Skate & Cycle",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-06 00:00:00"
+	},
+	{
+		"VendorID" : 101,
+		"AccountNumber" : "TOURING0001",
+		"Name" : "Touring Equipment Center",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-06 00:00:00"
+	},
+	{
+		"VendorID" : 102,
+		"AccountNumber" : "FITNESS0001",
+		"Name" : "Fitness Association",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-06 00:00:00"
+	},
+	{
+		"VendorID" : 103,
+		"AccountNumber" : "MORGANB0001",
+		"Name" : "Morgan Bike Accessories",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	},
+	{
+		"VendorID" : 104,
+		"AccountNumber" : "PROFESSI0001",
+		"Name" : "Professional Athletic Consultants",
+		"CreditRating" : 1,
+		"PreferredVendorStatus" : "1",
+		"ActiveFlag" : "1",
+		"PurchasingWebServiceURL" : null,
+		"ModifiedDate" : "2002-03-05 00:00:00"
+	}
+]

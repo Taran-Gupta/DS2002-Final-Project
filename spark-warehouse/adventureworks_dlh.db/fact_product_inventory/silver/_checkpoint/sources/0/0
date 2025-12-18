@@ -1,0 +1,4 @@
+v1
+{"path":"file:///C:/Users/taran/OneDrive%20-%20University%20of%20Virginia/documents/DS%202002/Projects/Project%202/spark-warehouse/adventureworks_dlh.db/fact_product_inventory/bronze/part-00000-8022a758-a4f2-4a3e-9d80-107cc5e15001-c000.snappy.parquet","timestamp":1766093641029,"batchId":0}
+{"path":"file:///C:/Users/taran/OneDrive%20-%20University%20of%20Virginia/documents/DS%202002/Projects/Project%202/spark-warehouse/adventureworks_dlh.db/fact_product_inventory/bronze/part-00000-2ac25ee3-2573-4f5c-83f5-2692f4db45a9-c000.snappy.parquet","timestamp":1766093642464,"batchId":0}
+{"path":"file:///C:/Users/taran/OneDrive%20-%20University%20of%20Virginia/documents/DS%202002/Projects/Project%202/spark-warehouse/adventureworks_dlh.db/fact_product_inventory/bronze/part-00000-c7eb9192-af39-4070-afd9-39db4348858b-c000.snappy.parquet","timestamp":1766093643804,"batchId":0}
